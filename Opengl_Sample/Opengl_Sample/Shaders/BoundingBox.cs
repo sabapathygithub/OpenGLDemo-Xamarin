@@ -13,7 +13,7 @@ namespace Opengl_Sample.Shaders
 
         public void CalculateBoundingBox()
         {
-
+            
         }
 
 
